@@ -1,5 +1,5 @@
 Author Name : Musharaf Aahel & Arun Kumar D For Landing and sign page of Raddoxa
-This Raddoxa Folder Contains 4 Folders 1 html & ReadMe .
+This Raddoxa Folder Contains 4 Folders  html & ReadMe .
 
 
 fonts Folder-- 5 files
